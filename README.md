@@ -8,7 +8,7 @@ Hello!
 <ul>
   <li>Bachelor's degree in management</li>
   <li>Programming self-taught</li>
-  <li>Big fan of League of Legends</li>
+  <li>Big fan of League of Legends and Chess</li>
 </ul>    
 <h2>
   Some stats
