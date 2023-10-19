@@ -8,6 +8,7 @@ Hello!
 <ul>
   <li>Junior SEO Specialist</li>
   <li>Bachelor's degree in management</li>
+  <li>Applied Computer Science at University of the National Education Commission</li>
   <li>Programming self-taught</li>
   <li>Big fan of League of Legends</li>
 </ul>    
