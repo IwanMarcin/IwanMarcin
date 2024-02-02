@@ -6,11 +6,9 @@ Hello!
   About me
 </h2>
 <ul>
-  <li>Junior SEO Specialist</li>
   <li>Bachelor's degree in management</li>
   <li>Applied Computer Science at University of the National Education Commission</li>
   <li>Programming self-taught</li>
-  <li>Big fan of League of Legends</li>
 </ul>    
 <h2>
   Some stats
